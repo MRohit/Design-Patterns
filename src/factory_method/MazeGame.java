@@ -1,6 +1,7 @@
 package factory_method;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public abstract class MazeGame {
     private final List<Room> rooms = new ArrayList<>();
