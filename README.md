@@ -8,3 +8,4 @@ Below Design patterns have been completed:
 5. Adapter Pattern
 6. Prototype Pattern
 7. State Pattern
+8. Decorator Pattern
